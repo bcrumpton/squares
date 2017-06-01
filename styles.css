@@ -12,8 +12,8 @@
 }
 
 .square {
-  height: 5rem;
   width: 5rem;
+  height: 5rem;
   margin: 0.5rem;
   background: #b7b7b7;
   border-radius: 0.2rem;
